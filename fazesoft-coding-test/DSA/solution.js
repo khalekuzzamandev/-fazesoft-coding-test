@@ -16,5 +16,4 @@
 
   return true;
 }
-
-console.log(jmNum([1,2,3,5,6]));
+console.log(jmNum([-32,32323,4]));
